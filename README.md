@@ -12,7 +12,7 @@
 
 * `apt update`
 * `apt install git curl php openssh-server -y`
-* `git clone git://github.com/Kaizzzo1/ZPhisher.git`
+* `git clone https://github.com/Kaizzzo1/ZPhisher.git`
 * `cd ZPhisher`
 #### > Run : `bash ZPhisher.sh`
 
